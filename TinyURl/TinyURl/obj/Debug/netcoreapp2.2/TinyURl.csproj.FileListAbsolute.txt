@@ -1,0 +1,11 @@
+C:\Users\INSNSHR\source\repos\TinyURl\TinyURl\bin\Debug\netcoreapp2.2\TinyURl.deps.json
+C:\Users\INSNSHR\source\repos\TinyURl\TinyURl\bin\Debug\netcoreapp2.2\TinyURl.runtimeconfig.json
+C:\Users\INSNSHR\source\repos\TinyURl\TinyURl\bin\Debug\netcoreapp2.2\TinyURl.runtimeconfig.dev.json
+C:\Users\INSNSHR\source\repos\TinyURl\TinyURl\bin\Debug\netcoreapp2.2\TinyURl.dll
+C:\Users\INSNSHR\source\repos\TinyURl\TinyURl\bin\Debug\netcoreapp2.2\TinyURl.pdb
+C:\Users\INSNSHR\source\repos\TinyURl\TinyURl\obj\Debug\netcoreapp2.2\TinyURl.csprojAssemblyReference.cache
+C:\Users\INSNSHR\source\repos\TinyURl\TinyURl\obj\Debug\netcoreapp2.2\TinyURl.csproj.CoreCompileInputs.cache
+C:\Users\INSNSHR\source\repos\TinyURl\TinyURl\obj\Debug\netcoreapp2.2\TinyURl.AssemblyInfoInputs.cache
+C:\Users\INSNSHR\source\repos\TinyURl\TinyURl\obj\Debug\netcoreapp2.2\TinyURl.AssemblyInfo.cs
+C:\Users\INSNSHR\source\repos\TinyURl\TinyURl\obj\Debug\netcoreapp2.2\TinyURl.dll
+C:\Users\INSNSHR\source\repos\TinyURl\TinyURl\obj\Debug\netcoreapp2.2\TinyURl.pdb
